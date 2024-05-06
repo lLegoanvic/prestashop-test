@@ -1,0 +1,1 @@
+[2024-05-06 11:03:36] Configuration successfully updated. <strong>This page will now be reloaded and the module will check if a new version is available.</strong>
